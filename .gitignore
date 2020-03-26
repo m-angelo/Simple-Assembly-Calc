@@ -1,2 +1,4 @@
 *.o
 calc
+.gdb_history
+data
